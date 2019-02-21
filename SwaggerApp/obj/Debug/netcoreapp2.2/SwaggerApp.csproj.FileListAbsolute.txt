@@ -1,0 +1,16 @@
+E:\Projects\SwaggerApp\SwaggerApp\bin\Debug\netcoreapp2.2\SwaggerApp.deps.json
+E:\Projects\SwaggerApp\SwaggerApp\bin\Debug\netcoreapp2.2\SwaggerApp.runtimeconfig.json
+E:\Projects\SwaggerApp\SwaggerApp\bin\Debug\netcoreapp2.2\SwaggerApp.runtimeconfig.dev.json
+E:\Projects\SwaggerApp\SwaggerApp\bin\Debug\netcoreapp2.2\SwaggerApp.dll
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.csprojAssemblyReference.cache
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.csproj.CoreCompileInputs.cache
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.RazorAssemblyInfo.cache
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.RazorAssemblyInfo.cs
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.AssemblyInfoInputs.cache
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.AssemblyInfo.cs
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.RazorTargetAssemblyInfo.cache
+E:\Projects\SwaggerApp\SwaggerApp\bin\Debug\netcoreapp2.2\SwaggerApp.pdb
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.dll
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.pdb
+E:\Projects\SwaggerApp\SwaggerApp\bin\Debug\netcoreapp2.2\SwaggerApp.xml
+E:\Projects\SwaggerApp\SwaggerApp\obj\Debug\netcoreapp2.2\SwaggerApp.xml

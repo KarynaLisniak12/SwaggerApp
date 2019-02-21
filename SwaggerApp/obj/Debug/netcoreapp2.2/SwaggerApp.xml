@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerApp</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerApp.Controllers.ValuesController.Get">
+            <summary>
+            Get current Assembly name
+            </summary>
+            <remarks>
+            Sample request:
+            GET
+            {
+                "id": 1
+            }
+            </remarks>
+            <returns>Name of current Assembly</returns>
+            <response code="200">Success</response>
+            <response code="404">Not found</response>
+        </member>
+    </members>
+</doc>
